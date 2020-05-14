@@ -5,3 +5,4 @@
 ## Projects Included are:
 
 - COVID-19
+- Real Estate Price Prediction
