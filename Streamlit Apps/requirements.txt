@@ -34,7 +34,7 @@ jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
 lxml==4.6.5
 MarkupSafe==1.1.1
-mistune==0.8.4
+mistune==2.0.3
 multitasking==0.0.9
 nbclient==0.5.1
 nbconvert==6.0.7
